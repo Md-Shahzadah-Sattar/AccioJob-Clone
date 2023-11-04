@@ -159,7 +159,7 @@
     align-items : center;
     }
     .new-nav-bar-frame66 {
-    gap : 3.980923652648926px;
+    gap : 4px;
     display : flex;
     align-items : flex-start;
     }
@@ -211,7 +211,7 @@
     font-size : 16px;
     text-align : left;
     font-weight : 400;
-    line-height : 154.99999523162842%;
+    line-height : 155%;
     font-stretch : normal;
     text-decoration : none;
     cursor : pointer;
@@ -233,7 +233,7 @@
     font-size : 16px;
     text-align : left;
     font-weight : 400;
-    line-height : 154.99999523162842%;
+    line-height : 155%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -250,7 +250,7 @@
     font-size : 16px;
     text-align : left;
     font-weight : 400;
-    line-height : 154.99999523162842%;
+    line-height : 155%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -268,7 +268,7 @@
     font-size : 16px;
     text-align : left;
     font-weight : 400;
-    line-height : 154.99999523162842%;
+    line-height : 155%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -350,20 +350,20 @@
     margin-top : -120px;
     }
     .landing-arrow {
-    top : 406.997802734375px;
-    left : 748.6063842773438px;
-    width : 129.10549926757812px;
-    height : 101.45209503173828px;
+    top : 407px;
+    left : 749px;
+    width : 129px;
+    height : 102px;
     display : flex;
     position : absolute;
     align-items : flex-start;
     flex-shrink : 1;
     }
     .landing-arrow2 {
-    top : 37.17961883544922px;
+    top : 37px;
     left : 0;
-    width : 113.00374603271484px;
-    height : 68.06177520751953px;
+    width : 113px;
+    height : 68px;
     display : flex;
     position : absolute;
     align-items : flex-start;
@@ -372,8 +372,8 @@
     .landing-group39866 {
     top : 0;
     left : 0;
-    width : 113.00374603271484px;
-    height : 68.06177520751953px;
+    width : 113px;
+    height : 68px;
     display : flex;
     position : absolute;
     align-items : flex-start;
@@ -381,7 +381,7 @@
     }
     .landing-vector210 {
     top : -40px;
-    left : 12.393596746363983px;
+    left : 12px;
     width : 112px;
     height : 110px;
     position : absolute;
@@ -420,7 +420,7 @@
     text-align : left;
     font-family : ABeeZee;
     font-weight : 400;
-    line-height : 129.99999523162842%;
+    line-height : 130%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -433,7 +433,7 @@
     text-align : left;
     font-family : ABeeZee;
     font-weight : 400;
-    line-height : 129.99999523162842%;
+    line-height : 130%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -447,7 +447,7 @@
     font-size : 18px;
     text-align : left;
     font-weight : 400;
-    line-height : 129.99999523162842%;
+    line-height : 130%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -457,7 +457,7 @@
     height : 77px;
     display : flex;
     padding : 15px 20px;
-    box-shadow : 0 2px 40px 0 rgb(0, 0, 0, 0.07999999821186066);
+    box-shadow : 0 2px 40px 0 rgb(0, 0, 0, 0.08);
     align-items : flex-end;
     flex-shrink : 0;
     border-color : rgb(226, 226, 226, 1);
@@ -489,13 +489,13 @@
     text-decoration : none;
     }
     .landing-frame999 {
-    gap : 10.214223861694336px;
+    gap : 10px;
     width : 134px;
     height : 47px;
     display : flex;
     align-items : center;
     flex-shrink : 0;
-    border-radius : 13.618966102600098px;
+    border-radius : 14px;
     }
     .landing-group907 {
     width : 36px;
@@ -532,7 +532,7 @@
     text-align : left;
     font-family : ABeeZee;
     font-weight : 400;
-    line-height : 129.99999523162842%;
+    line-height : 130%;
     font-stretch : normal;
     text-decoration : none;
     }
@@ -542,18 +542,18 @@
     font-size : 12px;
     text-align : left;
     font-weight : 400;
-    line-height : 154.99999523162842%;
+    line-height : 155%;
     font-stretch : normal;
     text-decoration : none;
     }
     .landing-frame1002 {
-    gap : 10.214223861694336px;
+    gap : 10.2px;
     width : 163px;
     height : 47px;
     display : flex;
     align-items : center;
     flex-shrink : 0;
-    border-radius : 13.618966102600098px;
+    border-radius : 13.6px;
     }
     .landing-group48097592 {
     width : 36px;
@@ -583,15 +583,15 @@
     .landing-group48097590 {
     top : 10.5px;
     left : 8px;
-    width : 20.106739044189453px;
-    height : 14.999895095825195px;
+    width : 20px;
+    height : 15px;
     display : flex;
     position : absolute;
     align-items : flex-start;
     flex-shrink : 1;
     }
     .landing-vector {
-    top : 6.853409767150879px;
+    top : 6.85px;
     left : 0;
     width : 10px;
     height : 7px;
@@ -2937,15 +2937,3 @@
     font-stretch : normal;
     text-decoration : none;
     }
-
-    @media only screen and (max-width: 720px) 
-    and (min-width:480px){
-        
-    }
-
-
-    @media only screen and (max-width: 480px) 
-    and (min-width:100px){
-        
-    }
-    
